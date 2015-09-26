@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">shapes</string>
+
+    <string name="action_settings">there is nothing here</string>(V)
+    <string name= "draw_rectangle">Draw a rectangle</string>(V)
+    <string name= "pickColor">choose your color</string>(V)
+    <string name= "draw_circle">Draw a circle</string>(V)
+    <string name="errMsg">Please fill the necessary filed for Rectangle to be created.</string>
+    <string name="errMsgTitle">Fields Require!</string>
+    <string name="OK">OK</string>
+    <string name="Width">Enter Width</string>
+    <string name="radius">Enter radius</string>
+    <string name="length">Enter length</string>
+    <string-array name="color_arrays">(V)
+        <item>GREEN</item>
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>YELLOW</item>
+        <item>GRAY</item>
+        <item>MAGENTA</item>
+        <item>CYAN</item>
+    </string-array>
+</resources>
